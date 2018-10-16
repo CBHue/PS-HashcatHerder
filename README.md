@@ -1,7 +1,7 @@
 # HashcatHerder
 #
 # Description: 
-# Automates running hascat over multiple wordlists. Smallest to largest
+# Automates running hashcat over multiple wordlists. Smallest to largest
 #
 # Example: 
 # Script options --hash type --location of hash to crack --location of pass files --output log directory
